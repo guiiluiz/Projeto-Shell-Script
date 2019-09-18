@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Eu sou Trybe e...
 ARQUIVO=$1
 TEXTO=`cat $ARQUIVO`
 
