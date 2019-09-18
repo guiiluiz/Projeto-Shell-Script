@@ -1,9 +1,5 @@
 #!/bin/bash
-<<<<<<< HEAD
-#Vou ter muito sucesso na programação!
-=======
 #Eu sou Trybe e...
->>>>>>> feature/new-shell-cap
 ARQUIVO=$1
 TEXTO=`cat $ARQUIVO`
 
