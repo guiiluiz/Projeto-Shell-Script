@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Vou ter muito sucesso na programação!
 ARQUIVO=$1
 TEXTO=`cat $ARQUIVO`
 
