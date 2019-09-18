@@ -3,7 +3,7 @@
 #Vou ter muito sucesso na programação!
 =======
 #Eu sou Trybe e...
->>>>>>> 2c5dcf7ae359ab8bdefd7e33d9277cf051781374
+>>>>>>> feature/new-shell-cap
 ARQUIVO=$1
 TEXTO=`cat $ARQUIVO`
 
