@@ -1,4 +1,5 @@
 #!/bin/bash
+#Vou ter muito sucesso na programação!
 read -p "Digite sua mensagem >" MESSAGE
 if [ -z $MESSAGE ]
 then
